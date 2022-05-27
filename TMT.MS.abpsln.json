@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "TMT.MS": {
+      "path": "TMT.MS.abpmdl.json"
+    }
+  }
+}

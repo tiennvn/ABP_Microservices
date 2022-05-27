@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "TMT.MS.Domain.Shared": {
+      "path": "src/TMT.MS.Domain.Shared/TMT.MS.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "TMT.MS.Domain": {
+      "path": "src/TMT.MS.Domain/TMT.MS.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "TMT.MS.Application.Contracts": {
+      "path": "src/TMT.MS.Application.Contracts/TMT.MS.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "TMT.MS.Application": {
+      "path": "src/TMT.MS.Application/TMT.MS.Application.abppkg.json",
+      "folder": "src"
+    },
+    "TMT.MS.EntityFrameworkCore": {
+      "path": "src/TMT.MS.EntityFrameworkCore/TMT.MS.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "TMT.MS.MongoDB": {
+      "path": "src/TMT.MS.MongoDB/TMT.MS.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "TMT.MS.HttpApi": {
+      "path": "src/TMT.MS.HttpApi/TMT.MS.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "TMT.MS.HttpApi.Client": {
+      "path": "src/TMT.MS.HttpApi.Client/TMT.MS.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "TMT.MS.TestBase": {
+      "path": "test/TMT.MS.TestBase/TMT.MS.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "TMT.MS.EntityFrameworkCore.Tests": {
+      "path": "test/TMT.MS.EntityFrameworkCore.Tests/TMT.MS.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "TMT.MS.MongoDB.Tests": {
+      "path": "test/TMT.MS.MongoDB.Tests/TMT.MS.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "TMT.MS.Domain.Tests": {
+      "path": "test/TMT.MS.Domain.Tests/TMT.MS.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "TMT.MS.Application.Tests": {
+      "path": "test/TMT.MS.Application.Tests/TMT.MS.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "TMT.MS.HttpApi.Host": {
+      "path": "host/TMT.MS.HttpApi.Host/TMT.MS.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "TMT.MS.Web": {
+      "path": "src/TMT.MS.Web/TMT.MS.Web.abppkg.json",
+      "folder": "src"
+    },
+    "TMT.MS.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/TMT.MS.HttpApi.Client.ConsoleTestApp/TMT.MS.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "TMT.MS.Web.Host": {
+      "path": "host/TMT.MS.Web.Host/TMT.MS.Web.Host.abppkg.json",
+      "folder": "host"
+    },
+    "TMT.MS.IdentityServer": {
+      "path": "host/TMT.MS.IdentityServer/TMT.MS.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "TMT.MS.Host.Shared": {
+      "path": "host/TMT.MS.Host.Shared/TMT.MS.Host.Shared.abppkg.json",
+      "folder": "host"
+    },
+    "TMT.MS.Web.Unified": {
+      "path": "host/TMT.MS.Web.Unified/TMT.MS.Web.Unified.abppkg.json",
+      "folder": "host"
+    },
+    "TMT.MS.Blazor": {
+      "path": "src/TMT.MS.Blazor/TMT.MS.Blazor.abppkg.json",
+      "folder": "src"
+    },
+    "TMT.MS.Blazor.Host": {
+      "path": "host/TMT.MS.Blazor.Host/TMT.MS.Blazor.Host.abppkg.json",
+      "folder": "host"
+    },
+    "TMT.MS.Blazor.Server": {
+      "path": "src/TMT.MS.Blazor.Server/TMT.MS.Blazor.Server.abppkg.json",
+      "folder": "src"
+    },
+    "TMT.MS.Blazor.WebAssembly": {
+      "path": "src/TMT.MS.Blazor.WebAssembly/TMT.MS.Blazor.WebAssembly.abppkg.json",
+      "folder": "src"
+    },
+    "TMT.MS.Blazor.Server.Host": {
+      "path": "host/TMT.MS.Blazor.Server.Host/TMT.MS.Blazor.Server.Host.abppkg.json",
+      "folder": "host"
+    }
+  }
+}
